@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prestigious Academy Hubs Intl Ltd. | Business Registration, Power, ICT & Learning</title>
+<meta name="description" content="CAC registration assistance, inverter installation and maintenance, ICT training, Economics tutorials and adult education in Lagos and Ogun State, Nigeria.">
+<meta property="og:title" content="Prestigious Academy Hubs Intl Ltd.">
+<meta property="og:description" content="Business growth, intelligent energy and limitless learning.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0B1B3A;--navy2:#13264D;--gold:#C9A961;--gold2:#E3CC94;--emerald:#1E7F5C;--bg:#FBF9F4;--surface:#fff;--ink:#16203A;--mute:#5B6478;--line:#E3DFD3;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0A1226;--surface:#101C38;--ink:#EDEAE0;--mute:#A4ACC0;--line:#243257}}
+:root[data-theme="dark"]{--bg:#0A1226;--surface:#101C38;--ink:#EDEAE0;--mute:#A4ACC0;--line:#243257}
+html{scroll-behavior:smooth;scroll-padding-top:90px}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 'Instrument Sans',system-ui,sans-serif}
+h1,h2,h3{font-family:'Newsreader',Georgia,serif;font-weight:600;line-height:1.15;margin:0 0 .6em;letter-spacing:-.01em}
+h2{font-size:clamp(1.8rem,3.5vw,2.5rem)}h3{font-size:1.25rem}
+a{color:inherit}.wrap{max-width:1160px;margin:0 auto;padding:0 22px}
+section{padding:72px 0}
+.btn{display:inline-flex;align-items:center;gap:.5rem;padding:.8rem 1.4rem;border-radius:6px;font-weight:600;text-decoration:none;border:1px solid var(--gold);background:var(--gold);color:var(--navy);cursor:pointer;font-size:1rem;font-family:inherit;transition:background .2s,color .2s}
+.btn:hover{background:var(--gold2)}.btn.ghost{background:transparent;color:inherit;border-color:currentColor}
+.btn.ghost:hover{background:rgba(201,169,97,.15)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+/* header */
+header{position:sticky;top:0;z-index:50;background:var(--navy);color:#fff;border-bottom:1px solid rgba(201,169,97,.35)}
+.bar{display:flex;align-items:center;justify-content:space-between;height:70px;gap:16px}
+.logo{display:flex;flex-direction:column;text-decoration:none;line-height:1.15}
+.logo b{font-family:'Newsreader',serif;font-size:1.15rem;color:#fff}.logo span{font-size:.72rem;color:var(--gold)}
+nav ul{list-style:none;display:flex;gap:2px;margin:0;padding:0;align-items:center}
+nav li{position:relative}
+nav a,nav button.top{color:#fff;text-decoration:none;padding:.5rem .7rem;font-size:.92rem;background:none;border:0;cursor:pointer;font-family:inherit;display:block}
+nav a:hover,nav button.top:hover{color:var(--gold2)}
+.dd{display:none;position:absolute;top:100%;left:0;min-width:260px;background:var(--navy2);border:1px solid rgba(201,169,97,.35);border-radius:6px;padding:6px;box-shadow:0 12px 30px rgba(0,0,0,.3)}
+li:hover>.dd,li:focus-within>.dd{display:block}.dd a{border-radius:4px}.dd a:hover{background:rgba(201,169,97,.14)}
+a.jc{display:inline-flex!important;align-items:center;gap:.45rem;border:1px solid var(--gold);color:var(--gold);border-radius:6px;font-weight:600}
+a.jc:hover{background:var(--gold);color:var(--navy)}
+.burger{display:none;background:none;border:1px solid var(--gold);color:var(--gold);border-radius:6px;padding:.45rem .7rem;font-size:1rem;cursor:pointer}
+@media(max-width:1020px){.burger{display:block}
+ nav{display:none;position:absolute;top:70px;left:0;right:0;background:var(--navy);padding:14px 22px 22px;border-bottom:1px solid var(--gold);max-height:calc(100vh - 70px);overflow:auto}
+ nav.open{display:block}nav ul{flex-direction:column;align-items:stretch}
+ .dd{display:block;position:static;background:none;border:0;box-shadow:none;padding:0 0 6px 14px}.dd a{font-size:.85rem;color:#C7CEE0}
+ a.jc{justify-content:center;margin:8px 0;padding:.8rem 1rem}}
+/* hero */
+.hero{background:var(--navy);color:#fff;padding:84px 0 72px}
+.hero .grid{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:center}
+.hero h1{font-size:clamp(2.3rem,5.4vw,4rem);color:#fff}
+.hero p{color:#C7CEE0;max-width:58ch}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.index{border-top:1px solid var(--gold)}
+.index a{display:block;padding:20px 4px;border-bottom:1px solid rgba(201,169,97,.35);text-decoration:none}
+.index a:hover{background:rgba(201,169,97,.08)}
+.index strong{display:block;font-family:'Newsreader',serif;font-size:1.35rem;color:var(--gold2);font-weight:500}
+.index span{font-size:.9rem;color:#C7CEE0}
+.index a.em strong{color:#8FE0BE}
+@media(max-width:860px){.hero .grid{grid-template-columns:1fr;gap:36px}}
+/* content */
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:28px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:26px;box-shadow:0 1px 3px rgba(11,27,58,.06)}
+.card.em{border-top:3px solid var(--emerald)}.card.gd{border-top:3px solid var(--gold)}
+.card ul{margin:.6em 0 0;padding-left:1.1em;color:var(--mute)}
+.card .btn{margin-top:14px;padding:.55rem 1rem;font-size:.9rem}
+.lead{max-width:68ch;color:var(--mute)}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:0;counter-reset:s;margin-top:28px}
+.steps div{padding:0 26px 0 0;border-top:2px solid var(--gold);padding-top:18px;counter-increment:s}
+.steps div::before{content:counter(s);font-family:'Newsreader',serif;font-size:2rem;color:var(--gold)}
+@media(max-width:700px){.steps{grid-template-columns:1fr;gap:20px}}
+.band{background:var(--navy);color:#fff}.band .lead{color:#C7CEE0}
+.band .card{background:var(--navy2);border-color:rgba(201,169,97,.35);color:#fff}
+.alt{background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+details{border-bottom:1px solid var(--line);padding:16px 0}summary{cursor:pointer;font-weight:600}details p{color:var(--mute);margin:.6em 0 0}
+.note{font-size:.88rem;color:var(--mute);border-left:3px solid var(--gold);padding:8px 14px;margin-top:22px}
+/* contact */
+.contact{display:grid;grid-template-columns:1fr 1fr;gap:44px}@media(max-width:860px){.contact{grid-template-columns:1fr}}
+.office{margin-bottom:20px}.office b{display:block}
+.phones a{display:block;font-size:1.1rem;text-decoration:none;padding:3px 0}.phones a:hover{color:var(--gold)}
+form label{display:block;font-weight:500;font-size:.9rem;margin-top:14px}
+input,select,textarea{width:100%;padding:.7rem .8rem;margin-top:5px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink);font:inherit}
+.err{color:#C0392B;font-size:.85rem;display:none}.bad+.err{display:block}.bad{border-color:#C0392B}
+.hid{display:none}
+/* footer */
+footer{background:var(--navy);color:#C7CEE0;padding:56px 0 30px;font-size:.92rem}
+footer h3{color:var(--gold2);font-size:1.05rem}footer a{text-decoration:none;display:block;padding:2px 0}footer a:hover{color:#fff}
+.fgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:32px}
+.legal{margin-top:36px;padding-top:18px;border-top:1px solid rgba(201,169,97,.3);font-size:.82rem}
+/* whatsapp */
+.fab{position:fixed;right:max(18px,env(safe-area-inset-right));bottom:max(18px,env(safe-area-inset-bottom));z-index:60;display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+.fab>button{width:58px;height:58px;border-radius:50%;border:0;background:#25D366;color:#fff;cursor:pointer;box-shadow:0 6px 18px rgba(0,0,0,.28);display:grid;place-items:center}
+.panel{display:none;width:min(330px,calc(100vw - 36px));background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;box-shadow:0 14px 34px rgba(0,0,0,.28);overflow:hidden}
+.panel.open{display:block}.panel h3{margin:0;padding:14px 16px;background:var(--navy);color:#fff;font-size:1.05rem}
+.panel .opt{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:12px 16px;border-bottom:1px solid var(--line)}
+.panel .opt small{display:block;color:var(--mute)}.panel .opt a{font-size:.85rem;font-weight:600;text-decoration:none;color:#128C4A;white-space:nowrap}
+.panel .call{display:block;padding:12px 16px;text-align:center;font-weight:600;text-decoration:none;color:var(--navy);background:var(--gold)}
+.panel select{margin:10px 16px 0;width:calc(100% - 32px)}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
+:root{--navy:#071433;--navy2:#0F2552;--gold:#F5B72E;--gold2:#FFDA7A;--emerald:#10B981;--sapphire:#3B6EFF;--ruby:#F0506E;--bg:#FFF8EA;--line:#EBDDBB}
+header{background:linear-gradient(90deg,#071433,#0F2552);border-bottom:3px solid var(--gold)}
+.logo{flex-direction:row;align-items:center;gap:12px}.logo img{border-radius:50%;border:2px solid var(--gold);box-shadow:0 0 0 3px rgba(245,183,46,.25)}.lt{display:flex;flex-direction:column}
+.hero{position:relative;overflow:hidden;background:radial-gradient(circle at 80% 30%,#1B3C8C 0,transparent 55%),var(--navy)}
+.hero::before{content:"";position:absolute;inset:-40% -20% auto auto;width:140%;height:180%;background:repeating-conic-gradient(from 0deg at 75% 20%,rgba(245,183,46,.16) 0 5deg,transparent 5deg 12deg);-webkit-mask-image:radial-gradient(circle at 75% 20%,#000,transparent 65%);mask-image:radial-gradient(circle at 75% 20%,#000,transparent 65%)}
+.hero .grid{position:relative}
+.hero h1{background:linear-gradient(95deg,#fff 30%,var(--gold2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.btn{background:linear-gradient(135deg,var(--gold2),var(--gold));border:0;box-shadow:0 4px 14px rgba(245,183,46,.35)}
+.btn:hover{background:var(--gold2);transform:translateY(-1px)}.btn.ghost{background:transparent;box-shadow:none;border:1px solid currentColor}
+.hero .btn.ghost{color:#fff}
+.right{display:flex;flex-direction:column;gap:22px;align-items:stretch}
+.medal{align-self:center;width:min(220px,50vw);height:auto;border-radius:50%;border:4px solid var(--gold);box-shadow:0 0 0 8px rgba(245,183,46,.18),0 20px 50px rgba(0,0,0,.5)}
+.index{border:0;display:grid;gap:10px}
+.index a{border:0;border-left:6px solid var(--c);border-radius:8px;padding:14px 18px;background:rgba(255,255,255,.07)}
+.index a:hover{background:rgba(255,255,255,.14)}
+.index a:nth-child(1){--c:var(--gold)}.index a:nth-child(2){--c:var(--emerald)}.index a:nth-child(3){--c:var(--sapphire)}.index a:nth-child(4){--c:var(--ruby)}
+.index strong,.index a.em strong{color:#fff;font-size:1.15rem}
+section h2::after{content:"";display:block;width:64px;height:5px;border-radius:3px;background:var(--ac,var(--gold));margin-top:12px}
+.card{border-top:5px solid var(--ac,var(--gold));box-shadow:0 8px 24px rgba(7,20,51,.08)}
+.card.gd,.card.em{border-top:5px solid var(--ac,var(--gold))}
+.card .btn{background:var(--ac,var(--gold));color:#fff;box-shadow:none}
+#business .card .btn{color:var(--navy)}
+.alt{background:linear-gradient(180deg,#FFF1CC,#FFF8EA)}
+.band{background:radial-gradient(circle at 15% 20%,#2A4FC0,transparent 50%),linear-gradient(120deg,#071433,#12306F)}
+.steps div{border-top-color:var(--gold)}.steps div::before{color:var(--ruby)}
+.note{border-left-color:var(--ruby)}
+footer{background:linear-gradient(180deg,#0F2552,#071433);border-top:4px solid var(--gold)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0A1226;--line:#243257}.alt{background:var(--surface)}}
+@media(max-width:1020px){nav{background:var(--navy)}}
+</style>
+</head>
+<body>
+<header>
+ <div class="wrap bar">
+  <a class="logo" href="#top" aria-label="Prestigious Academy Hubs Intl Ltd. home"><img src="logo.jpg" alt="Prestigious Academy Hubs crest" width="48" height="48"><span class="lt"><b>Prestigious Academy Hubs</b><span>Intl Ltd.</span></span></a>
+  <button class="burger" id="burger" aria-expanded="false" aria-controls="nav">Menu</button>
+  <nav id="nav" aria-label="Main">
+   <ul>
+    <li><a href="#top">Home</a></li>
+    <li><a href="#about">About Us</a></li>
+    <li><button class="top" aria-haspopup="true">Business Services ▾</button><div class="dd">
+      <a href="#business">Business Name Registration</a><a href="#business">Company Incorporation Support</a><a href="#business">NGO and Incorporated Trustees Support</a><a href="#business">Post-Registration Assistance</a></div></li>
+    <li><button class="top" aria-haspopup="true">Power &amp; Energy ▾</button><div class="dd">
+      <a href="#power">Inverter Sales</a><a href="#power">Installation &amp; Commissioning</a><a href="#power">Battery and Solar Solutions</a><a href="#power">Preventive Maintenance</a><a href="#power">Technical Assessment</a></div></li>
+    <li><button class="top" aria-haspopup="true">ICT Solutions ▾</button><div class="dd">
+      <a href="#ict">Computer Education</a><a href="#ict">Hardware and Troubleshooting</a><a href="#ict">Digital Productivity Training</a><a href="#ict">Networking Fundamentals</a></div></li>
+    <li><button class="top" aria-haspopup="true">Learning Academy ▾</button><div class="dd">
+      <a href="#learning">Economics Tutorials</a><a href="#learning">Secondary-School Academic Support</a><a href="#learning">Adult Education</a><a href="#learning">Virtual Learning</a><a href="#learning">Door-to-Door Tutoring</a></div></li>
+    <li><a class="jc" href="https://classroom.google.com/u/1/h/tv" target="_blank" rel="noopener noreferrer" aria-label="Join Classroom (opens Google Classroom in a new tab)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 9 12 4 2 9l10 5 10-5Z"/><path d="M6 11v5c0 1.2 2.7 3 6 3s6-1.8 6-3v-5"/><path d="M22 9v6"/></svg>Join Classroom</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a class="btn" href="#start" style="color:var(--navy);padding:.5rem 1rem">Get Started</a></li>
+   </ul>
+  </nav>
+ </div>
+</header>
+
+<main id="top">
+<div class="hero"><div class="wrap grid">
+ <div>
+  <h1>Business Growth. Intelligent Energy. Limitless Learning.</h1>
+  <p>From formalising your business and designing dependable backup power systems to developing practical digital skills and delivering personalised education, Prestigious Academy Hubs Intl Ltd. brings essential services together in one trusted destination.</p>
+  <div class="cta">
+   <a class="btn" href="#start" data-pick="cac">Start Business Registration</a>
+   <a class="btn ghost" href="#start" data-pick="power">Request a Power Assessment</a>
+   <a class="btn ghost" href="#start" data-pick="learn">Explore Learning Programmes</a>
+  </div>
+  <div class="cta" style="margin-top:14px"><a class="jc btn ghost" style="color:var(--gold)" href="https://classroom.google.com/u/1/h/tv" target="_blank" rel="noopener noreferrer">Enter Join Classroom</a></div>
+ </div>
+ <div class="right"><img class="medal" src="logo.jpg" alt="Prestigious Academy Hubs logo: crest with laurel wreath and rising sun" width="220" height="220"><div class="index" aria-label="Our four divisions">
+  <a href="#business"><strong>Business Registration &amp; Corporate Support</strong><span>CAC business names, companies, NGOs</span></a>
+  <a class="em" href="#power"><strong>Renewable Energy &amp; Backup Power</strong><span>Inverters, batteries, solar, maintenance</span></a>
+  <a href="#ict"><strong>ICT &amp; Digital Skills</strong><span>Training, hardware and networking</span></a>
+  <a href="#learning"><strong>Education &amp; Lifelong Learning</strong><span>Economics, adult education, virtual classes</span></a>
+ </div></div>
+</div></div>
+
+<section id="about"><div class="wrap">
+ <h2>One organisation for business, technology, energy and education</h2>
+ <p class="lead">Empowering Enterprises. Advancing Technology. Transforming Lives Through Education. Your integrated partner for business registration support, intelligent power solutions, professional ICT services, and accessible lifelong learning, serving clients in Nigeria and, where available, Ghana.</p>
+ <div class="steps">
+  <div><h3>Discover a service</h3><p>Browse the four divisions and choose what you need.</p></div>
+  <div><h3>Submit your request</h3><p>Send details by WhatsApp or email in under two minutes.</p></div>
+  <div><h3>Receive professional assistance</h3><p>Our team replies with requirements, next steps and a quotation.</p></div>
+ </div>
+</div></section>
+
+<section id="business" style="--ac:var(--gold)" class="alt"><div class="wrap">
+ <h2>Business Registration &amp; Corporate Support</h2>
+ <p class="lead">We help you prepare and submit Nigerian CAC applications. Name availability, statutory fees and approvals remain subject to the Corporate Affairs Commission.</p>
+ <div class="cols">
+  <div class="card gd"><h3>Business Name Registration</h3><p>For sole proprietors and partnerships.</p><ul><li>Two proposed business names</li><li>Business activities and address</li><li>Proprietor details</li></ul><a class="btn" href="#start" data-pick="cac">Begin Application</a></div>
+  <div class="card gd"><h3>Company Incorporation Support</h3><p>Limited companies.</p><ul><li>Proposed company names</li><li>Directors and shareholders</li><li>Registered office address</li></ul><a class="btn" href="#start" data-pick="cac">Begin Application</a></div>
+  <div class="card gd"><h3>NGO &amp; Incorporated Trustees</h3><p>Non-profit organisations.</p><ul><li>Names, mission and objectives</li><li>Trustee information</li><li>Office address</li></ul><a class="btn" href="#start" data-pick="cac">Begin Application</a></div>
+ </div>
+ <p class="note">Prestigious Academy Hubs Intl Ltd. is an independent registration assistance provider, not the official CAC portal. We never ask for your CAC portal password or banking PINs.</p>
+</div></section>
+
+<section id="power" style="--ac:var(--emerald)"><div class="wrap">
+ <h2>Renewable Energy &amp; Backup Power</h2>
+ <p class="lead">Inverter sales, installation, battery replacement, solar systems where offered, fault diagnosis, maintenance and upgrades. Every system is sized after a proper load assessment.</p>
+ <div class="cols">
+  <div class="card em"><h3>Sales &amp; installation</h3><p>Residential and commercial inverter and battery systems, installed and commissioned.</p></div>
+  <div class="card em"><h3>Assessment &amp; sizing</h3><p>We review your appliances, surge power, backup hours and battery type before recommending capacity.</p></div>
+  <div class="card em"><h3>Maintenance</h3><p>Preventive servicing, battery health checks and troubleshooting.</p><a class="btn" href="#start" data-pick="power">Request a Power Assessment</a></div>
+ </div>
+</div></section>
+
+<section id="ict" style="--ac:var(--sapphire)" class="alt"><div class="wrap">
+ <h2>ICT &amp; Digital Skills</h2>
+ <p class="lead">Practical programmes for beginners, professionals and entrepreneurs. Schedules and fees are shared on enquiry.</p>
+ <div class="cols">
+  <div class="card"><h3>Computer education</h3><ul><li>Digital literacy</li><li>Word, Excel and PowerPoint</li><li>Skills for entrepreneurs</li></ul></div>
+  <div class="card"><h3>Hardware &amp; troubleshooting</h3><ul><li>Computer maintenance</li><li>Fault finding</li></ul></div>
+  <div class="card"><h3>Networking &amp; productivity</h3><ul><li>Networking fundamentals</li><li>Digital productivity</li></ul><a class="btn" href="#start" data-pick="ict">Enquire About Training</a></div>
+ </div>
+</div></section>
+
+<section id="learning" style="--ac:var(--ruby)"><div class="wrap">
+ <h2>Learning Academy</h2>
+ <p class="lead">Structured Economics instruction, secondary-school support, respectful adult education, virtual classes and door-to-door tutoring.</p>
+ <div class="cols">
+  <div class="card gd"><h3>Economics tutorials</h3><p>Individual and small-group classes, revision and exam preparation.</p></div>
+  <div class="card gd"><h3>Adult education</h3><p>Reading, writing, numeracy, digital literacy and business skills, at a pace that suits you.</p></div>
+  <div class="card gd"><h3>Virtual &amp; door-to-door</h3><p>Learn online, or request an in-person tutor.</p><a class="btn" href="#start" data-pick="learn">Book a Tutor</a></div>
+ </div>
+</div></section>
+
+<section class="band"><div class="wrap">
+ <h2>Join Classroom</h2>
+ <p class="lead">Our virtual classes run on Google Classroom. Sign in with your Google account to reach your classes. Access to individual classes depends on your account and classroom membership.</p>
+ <div class="cta"><a class="jc btn" href="https://classroom.google.com/u/1/h/tv" target="_blank" rel="noopener noreferrer">Join Classroom</a>
+ <a class="btn ghost" href="#start" data-pick="class">Ask for help accessing a class</a></div>
+</div></section>
+
+<section><div class="wrap">
+ <h2>Why choose us</h2>
+ <div class="cols">
+  <div class="card"><h3>Transparent communication</h3><p>Fees, requirements and timelines explained before you commit.</p></div>
+  <div class="card"><h3>Customer-focused</h3><p>One team for several needs, reachable by call, WhatsApp or email.</p></div>
+  <div class="card"><h3>Practical expertise</h3><p>Hands-on service delivery in business support, power and ICT.</p></div>
+  <div class="card"><h3>Accessible learning</h3><p>Flexible formats for students, parents and working adults.</p></div>
+ </div>
+</div></section>
+
+<section class="alt"><div class="wrap" style="max-width:820px">
+ <h2>Frequently asked questions</h2>
+ <details><summary>Are you the Corporate Affairs Commission?</summary><p>No. We are an independent provider that assists with preparing and submitting applications. Approvals and statutory fees are set by the CAC.</p></details>
+ <details><summary>Can you tell me which inverter to buy without a visit?</summary><p>We can give general guidance, but a specific capacity is recommended only after a load assessment covering appliances, surge power, battery type and backup hours.</p></details>
+ <details><summary>Do I need to know my appliance wattages?</summary><p>No. Send what you know and we will help with the rest during assessment.</p></details>
+ <details><summary>How do I join a virtual class?</summary><p>Use the Join Classroom button and sign in with your Google account. Contact us if you need to be added to a class.</p></details>
+ <details><summary>Do you offer in-person tutoring?</summary><p>Yes, door-to-door tutoring can be requested. We ask for your full address only when arranging the appointment.</p></details>
+</div></section>
+
+<section id="start"><div class="wrap contact">
+ <div>
+  <h2>Get started</h2>
+  <p class="lead">Tell us what you need. Your request opens in WhatsApp or your email app, pre-filled, so you can review it before sending.</p>
+  <form id="f" novalidate>
+   <label>Service <select id="svc"><option value="gen">General enquiry</option><option value="cac">CAC registration</option><option value="power">Inverter and power solutions</option><option value="ict">ICT training</option><option value="learn">Economics tutorials and adult education</option><option value="class">Join Classroom help</option></select></label>
+   <label>Full name <input id="nm" autocomplete="name"></label><div class="err">Enter your name.</div>
+   <label>Phone number <input id="ph" type="tel" autocomplete="tel"></label><div class="err">Enter a valid phone number.</div>
+   <label>Email (optional) <input id="em" type="email" autocomplete="email"></label>
+   <div id="x-cac" class="hid"><label>Registration type <select id="rt"><option>Business name</option><option>Company</option><option>NGO / Incorporated Trustees</option></select></label><label>Proposed name(s) <input id="pn"></label></div>
+   <div id="x-power" class="hid"><label>Property type and area <input id="pp" placeholder="e.g. 3-bedroom flat, Ilupeju"></label><label>Main appliances and backup hours (if known) <input id="ap"></label></div>
+   <div id="x-learn" class="hid"><label>Student level and subject <input id="lv" placeholder="e.g. SS2, Economics"></label><label>Mode <select id="md"><option>Virtual</option><option>In-person</option></select></label></div>
+   <label>Message <textarea id="msg" rows="3"></textarea></label>
+   <label>Preferred contact method <select id="cm"><option value="wa">WhatsApp</option><option value="em">Email</option></select></label>
+   <label id="wsel">Send to <select id="num"></select></label>
+   <div class="cta"><button class="btn" type="submit">Send request</button></div>
+  </form>
+ </div>
+ <div id="contact">
+  <h2>Contact us</h2>
+  <div class="phones" id="phones"></div>
+  <p><a id="mail" href="mailto:prestacadhubs@gmail.com">prestacadhubs@gmail.com</a></p>
+  <div class="cta" style="margin:10px 0 26px"><a class="btn" id="callbtn" href="tel:+2348036035769">Call Our Team</a></div>
+  <div class="office"><b>Ogun State Office</b>Success JP Crescent, Liberty Estate,<br>Magboro–Magada, Ogun State, Nigeria.<br><a href="https://www.google.com/maps/search/?api=1&query=Success+JP+Crescent+Liberty+Estate+Magboro+Ogun+State+Nigeria" target="_blank" rel="noopener noreferrer">Get directions</a></div>
+  <div class="office"><b>Lagos State Office</b>Esther Street, Ilupeju,<br>Lagos State, Nigeria.<br><a href="https://www.google.com/maps/search/?api=1&query=Esther+Street+Ilupeju+Lagos+Nigeria" target="_blank" rel="noopener noreferrer">Get directions</a></div>
+  <p class="note">Business hours will be published here once confirmed. Directions open a Google Maps search; confirm the exact location with our team before travelling.</p>
+ </div>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+ <div class="fgrid">
+  <div><img src="logo.jpg" alt="" width="64" height="64" style="border-radius:50%;margin-bottom:10px"><h3>Prestigious Academy Hubs Intl Ltd.</h3><p>Empowering Enterprises. Advancing Technology. Transforming Lives Through Education.</p></div>
+  <div><h3>Services</h3><a href="#business">CAC Registration Support</a><a href="#power">Inverter &amp; Power Solutions</a><a href="#ict">ICT Training</a><a href="#learning">Economics Tutorials</a><a href="#learning">Adult Education</a><a class="jc" style="display:block;border:0;color:inherit;padding:2px 0;font-weight:400" href="https://classroom.google.com/u/1/h/tv" target="_blank" rel="noopener noreferrer">Join Classroom</a></div>
+  <div><h3>Contact</h3><div id="fphones"></div><a href="mailto:prestacadhubs@gmail.com">prestacadhubs@gmail.com</a></div>
+  <div><h3>Our Locations</h3><p>Success JP Crescent, Liberty Estate, Magboro–Magada, Ogun State.</p><p>Esther Street, Ilupeju, Lagos State.</p></div>
+ </div>
+ <div class="legal"><a href="#contact" style="display:inline;margin-right:16px">Contact Us</a><a href="#top" style="display:inline;margin-right:16px">Privacy Policy</a><a href="#top" style="display:inline">Terms of Service</a>
+ <p>Prestigious Academy Hubs Intl Ltd. is an independent registration assistance provider and is not affiliated with the Corporate Affairs Commission.</p></div>
+</div></footer>
+
+<div class="fab">
+ <div class="panel" id="panel" role="dialog" aria-label="Chat with Our Team"><h3>Chat with Our Team</h3><select id="ctx" aria-label="Topic"></select><div id="opts"></div><a class="call" href="tel:+2348036035769">Call Our Team</a></div>
+ <button id="wabtn" aria-label="Chat with Us on WhatsApp" aria-expanded="false"><svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.04 2a9.9 9.9 0 0 0-8.5 14.9L2 22l5.25-1.38A9.9 9.9 0 1 0 12.04 2Zm5.8 14.1c-.25.7-1.4 1.3-1.95 1.35-.5.05-1.1.07-1.8-.12a14 14 0 0 1-5.1-3.1c-1.5-1.5-2.3-3-2.4-3.5-.2-.5-.1-1.1.3-1.5.2-.3.5-.3.6-.3h.4c.15 0 .3 0 .45.4l.7 1.7c.1.15.1.3 0 .45l-.35.5c-.15.15-.3.3-.15.55.15.3.7 1.1 1.5 1.8.9.8 1.7 1.1 2 1.25.3.15.45.1.6-.1l.7-.85c.2-.25.4-.2.6-.1l1.6.8c.25.1.4.2.45.3.1.1.1.5-.1 1.1Z"/></svg></button>
+</div>
+
+<script>
+// ADMIN CONFIG: edit contact details here. Set whatsapp:true only for numbers confirmed on WhatsApp.
+var CONFIG={
+ numbers:[
+  {name:"Main Line",display:"+234 803 603 5769",intl:"2348036035769",whatsapp:true},
+  {name:"Support Line",display:"+234 916 635 9595",intl:"2349166359595",whatsapp:true},
+  {name:"Enquiries Line",display:"+234 803 776 7340",intl:"2348037767340",whatsapp:true}],
+ email:"prestacadhubs@gmail.com"
+};
+var MSG={
+ gen:"Hello Prestigious Academy Hubs Intl Ltd. I would like to make an enquiry about your services.",
+ cac:"Hello, I am interested in CAC business name, company, or NGO registration assistance. Please provide information about your requirements, fees, and application process.",
+ power:"Hello, I would like to enquire about inverter sales, installation, or maintenance. Please assist me with the next steps.",
+ ict:"Hello, I am interested in your ICT training programmes. Please provide details about available courses, schedules, and fees.",
+ learn:"Hello, I would like information about your Economics tutorials or adult education programmes.",
+ class:"Hello, I would like assistance with student registration or accessing Join Classroom."};
+var LABEL={gen:"General enquiry",cac:"CAC registration",power:"Inverter and power solutions",ict:"ICT training",learn:"Economics tutorials and adult education",class:"Join Classroom"};
+var $=function(i){return document.getElementById(i)};
+function wa(n,t){return "https://wa.me/"+n.intl+"?text="+encodeURIComponent(t)}
+// phones
+CONFIG.numbers.forEach(function(n){
+ var h='<a href="tel:+'+n.intl+'">'+n.display+'</a>';
+ $("phones").insertAdjacentHTML("beforeend",h);$("fphones").insertAdjacentHTML("beforeend",h);
+ if(n.whatsapp){$("num").insertAdjacentHTML("beforeend",'<option value="'+n.intl+'">'+n.name+' ('+n.display+')</option>')}
+});
+Object.keys(LABEL).forEach(function(k){$("ctx").insertAdjacentHTML("beforeend",'<option value="'+k+'">'+LABEL[k]+'</option>')});
+function drawOpts(){var c=$("ctx").value,h="";
+ CONFIG.numbers.forEach(function(n){
+  h+='<div class="opt"><div>'+n.name+'<small>'+n.display+'</small></div>'+(n.whatsapp?'<a href="'+wa(n,MSG[c])+'" target="_blank" rel="noopener noreferrer">WhatsApp</a>':'<a href="tel:+'+n.intl+'">Call</a>')+'</div>'});
+ $("opts").innerHTML=h}
+$("ctx").onchange=drawOpts;drawOpts();
+$("wabtn").onclick=function(){var o=$("panel").classList.toggle("open");this.setAttribute("aria-expanded",o)};
+document.addEventListener("keydown",function(e){if(e.key==="Escape"){$("panel").classList.remove("open");$("nav").classList.remove("open")}});
+// mobile nav
+$("burger").onclick=function(){var o=$("nav").classList.toggle("open");this.setAttribute("aria-expanded",o)};
+document.querySelectorAll("nav a:not(.jc)").forEach(function(a){a.addEventListener("click",function(){$("nav").classList.remove("open")})});
+// conditional fields
+function cond(){var s=$("svc").value;
+ $("x-cac").classList.toggle("hid",s!=="cac");$("x-power").classList.toggle("hid",s!=="power");$("x-learn").classList.toggle("hid",s!=="learn");
+ $("wsel").classList.toggle("hid",$("cm").value!=="wa")}
+$("svc").onchange=cond;$("cm").onchange=cond;cond();
+document.querySelectorAll("[data-pick]").forEach(function(a){a.addEventListener("click",function(){$("svc").value=a.dataset.pick;cond()})});
+// form
+$("f").onsubmit=function(e){e.preventDefault();
+ var ok=true;
+ [["nm",function(v){return v.trim().length>1}],["ph",function(v){return v.replace(/\D/g,"").length>=10}]].forEach(function(r){
+  var el=$(r[0]),good=r[1](el.value);el.classList.toggle("bad",!good);if(!good)ok=false});
+ if(!ok)return;
+ var s=$("svc").value,L=[MSG[s],"","Name: "+$("nm").value.trim(),"Phone: "+$("ph").value.trim()];
+ if($("em").value)L.push("Email: "+$("em").value.trim());
+ if(s==="cac"){L.push("Type: "+$("rt").value);if($("pn").value)L.push("Proposed name(s): "+$("pn").value)}
+ if(s==="power"){if($("pp").value)L.push("Property: "+$("pp").value);if($("ap").value)L.push("Appliances/backup: "+$("ap").value)}
+ if(s==="learn"){if($("lv").value)L.push("Level/subject: "+$("lv").value);L.push("Mode: "+$("md").value)}
+ if($("msg").value)L.push("Message: "+$("msg").value.trim());
+ var t=L.join("\n");
+ if($("cm").value==="wa"){var n=CONFIG.numbers.filter(function(x){return x.intl===$("num").value})[0];window.open(wa(n,t),"_blank","noopener")}
+ else{location.href="mailto:"+CONFIG.email+"?subject="+encodeURIComponent(LABEL[s]+" request")+"&body="+encodeURIComponent(t)}
+};
+</script>
+</body>
+</html>
